@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Some Languages Known : 
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=306998)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=306998)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Cuda](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
