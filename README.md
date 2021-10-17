@@ -8,7 +8,7 @@
 - Master's Degree in Mathematics, Computer Vision and Machine Learning (MVA) (2022 expected)
 - Engineer's Degree in Applied Mathematics and Computer Science (2021)
 
-### ✨ Center of Interrest :
+### ✨ Area Of Interest :
 - Artificial Intelligence 🧠
 - Machine Learning 🤖
 - Deep Learning 🖥️
@@ -32,6 +32,6 @@
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-00008B?style=flat-square&logo=opencv&logoColor=white)
 
-### Social :
+### 📁 Social :
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clement-apavou/)](https://www.linkedin.com/in/clement-apavou/)
