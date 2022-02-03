@@ -25,7 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### 🐍 Some Python Librairies Preferred :
+### 🐍 Some Python Libraries Preferred :
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-e74a2b?style=flat-square&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-f09437?style=flat-square&logo=Scikit-learn&logoColor=white)
