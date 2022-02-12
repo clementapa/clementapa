@@ -36,7 +36,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clement-apavou/)](https://www.linkedin.com/in/clement-apavou/)
 
-## 📈 Stats
+## 📈 Stats :
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=clementapa&count_private=true&show_icons=true&hide_border=true&theme=highcontrast" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=clementapa&hide_border=true&theme=highcontrast&count_private=true" />
