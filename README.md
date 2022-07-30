@@ -29,6 +29,7 @@
 ### 🐍 Some Python Libraries Preferred :
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-e74a2b?style=flat-square&logo=PyTorch&logoColor=white)
+![PyTorch-lightning](https://img.shields.io/badge/PyTorch-e74a2b?style=flat-square&logo=PyTorch-lightning&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-f09437?style=flat-square&logo=Scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-00008B?style=flat-square&logo=opencv&logoColor=white)
