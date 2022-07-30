@@ -14,7 +14,8 @@
 - Deep Learning 🖥️
 - Reinforcement Learning 🎲
 - Computer Vision 👀
-- Natural Language Processing 🗣️
+- Natural Language Processing 📖
+- Audio Processing 🗣️
 
 ### 👨‍💻 Some Languages Known : 
 
