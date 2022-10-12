@@ -5,7 +5,7 @@
 - Polytech Sorbonne (2016 - 2021)
 
 ### 🎓 Diploma :
-- Master's Degree in Mathematics, Computer Vision and Machine Learning (MVA) (2022 expected)
+- Master's Degree in Mathematics, Computer Vision and Machine Learning (MVA) (2022)
 - Engineer's Degree in Applied Mathematics and Computer Science (2021)
 
 ### ✨ Area Of Interest :
@@ -30,6 +30,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-e74a2b?style=flat-square&logo=PyTorch&logoColor=white)
 ![PyTorch-lightning](https://img.shields.io/badge/PyTorch--lightning-8A2BE2?style=flat-square&logo=PyTorch-lightning&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=flat-square&logo=Hugging-Face&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-f09437?style=flat-square&logo=Scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-00008B?style=flat-square&logo=opencv&logoColor=white)
